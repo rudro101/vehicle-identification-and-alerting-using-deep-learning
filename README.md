@@ -16,7 +16,7 @@ Use YOLOv5 for object detection and classification using the custom dataset.
 
 For counting: count the number of vehicles of each class passing through the specified reference line.
 
-B. Implementing traffic rule violation and alerting system
+_B. Implementing traffic rule violation and alerting system_
 
 Traffic rule violations can include overspeeding or traffic signal breaking.
 Upon any such violation, the number plate of the violating vehicle is to be obtained and an alert is to be sent to the authorities who can then take necessary action. A database can be created to record all these violations and the offenders.
