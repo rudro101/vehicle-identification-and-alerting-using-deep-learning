@@ -1,12 +1,12 @@
 # vehicle-identification-and-alerting-using-deep-learning
 
-Introduction:
+**Introduction:**
 
 With the exponential increase in road traffic all over the world, traffic monitoring and control has become more and more important. Intelligent transportation systems (ITS) have attracted a lot of attention in the last decades. Vehicle detection, classification, counting and tracking from input from highways and other roadways and extracting essential parameters related to vehicular traffic can help better management of traffic on busy roads. With the installation of traffic surveillance cameras, a vast database of traffic video footage has been obtained for analysis.
 
-Objectives of our project: 
+**Objectives of our project:** 
 
-A. Implementing a vehicle detection and counting system
+_A. Implementing a vehicle detection and counting system_
 
 For vehicle detection: YOLOv5 training with custom data.
 Collect data/images. Data is split into training and validation data
