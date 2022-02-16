@@ -22,6 +22,6 @@ Traffic rule violations can include overspeeding or traffic signal breaking.
 Upon any such violation, the number plate of the violating vehicle is to be obtained and an alert is to be sent to the authorities who can then take necessary action. A database can be created to record all these violations and the offenders.
 
 
-
+## Final Output
 https://user-images.githubusercontent.com/58129107/154209278-98275489-c766-485f-ae3f-2ed3c5a33322.mp4
 
